@@ -1,0 +1,6 @@
+frequency_bucket,customers,total_revenue
+"1 - One-Time",1626,559480.21
+"2 - Occasional (2-3)",1605,1553889.92
+"3 - Regular (4-6)",1128,1869561.83
+"4 - Frequent (7-12)",861,3029055.88
+"5 - High Frequency (13+)",644,10057551.93

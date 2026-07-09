@@ -1,0 +1,7 @@
+segment,customers,total_revenue,avg_ltv,avg_orders,avg_recency_days
+Champions,1335,11741535.46,8795.16,16.5,19
+"Loyal Customers",1473,2765106.55,1877.19,5.1,65
+"At Risk",710,1529925.68,2154.82,5.5,359
+Lost,1636,693099.19,423.65,1.3,453
+"Needs Attention",424,229760.84,541.89,1.4,107
+"New Customers",286,110112.05,385.01,1.2,33
